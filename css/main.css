@@ -96,5 +96,5 @@ body{
 }
 .attribution a {
     text-decoration: none;
-    
+    color: var(--soft-violet);
 }
